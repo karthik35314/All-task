@@ -1,0 +1,52 @@
+.headerbg{
+    background-image: url(../../../../Assets/header_bg_new.png);
+    width: 100%;
+    height: 600px;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.block-one{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 11rem;
+    
+}
+.block-one >h1{
+    color: white;
+    font-size: 33px;
+    font-weight: 300;
+}
+.block-two>h1{
+    color: white;
+    font-weight: 900;
+}
+
+.block-two>p{
+    color: white;
+    font-weight: 900;
+}
+
+
+.block-two >p{
+    color: white;
+    font-size: 24px;
+    font-weight: 600;
+}
+.block-three >P{
+color: white;
+text-align: left;
+font-weight: 500;
+font-size: 17px;
+
+}
+
+.logo{
+    width: 50%;
+    margin-left: 120px;
+    margin-top: -10px;
+}
+p{
+    color: white;
+}

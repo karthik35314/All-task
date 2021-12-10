@@ -1,0 +1,38 @@
+.blue-bold{
+    color: #7464E0;
+    font-family: "Poppins", Arial;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 29px;
+}
+.customcard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.grey{
+    color: grey;
+    width: 15rem;
+}
+.green{
+    background: #65B77F;
+    border: 1px solid #65B77F;
+    font-size: 11.25pt;
+    font-family: 'Poppins-Bold';
+    margin-right: 20px;
+    margin-top: 20px;
+    line-height: 15px;
+    border-radius: 25px;
+    padding: 14px 133px;
+    letter-spacing: 1px;
+}
+
+.banners{
+    background-image: url(../../../../Assets//banner.webp);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+.white{
+    color: white;
+}
